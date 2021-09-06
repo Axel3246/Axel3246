@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axel Hernández</h1>
 <h3 align="center">A learning developer at ITESM</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axel3246" alt="axel3246" /></a> </p>
-
 - 🔭 I’m currently working on [El Canal de Suez](https://github.com/0zym4ndias/canal-de-suez)
 
 - 🌱 I’m currently learning **Data Structures on C++**
