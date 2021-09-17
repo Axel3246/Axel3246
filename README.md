@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Hernández</h1>
 <h3 align="center">A learning developer at ITESM</h3>
 
-- 🔭 I’m currently working on [El Canal de Suez](https://github.com/0zym4ndias/canal-de-suez)
+- 🔭 I’m currently working on [SemanaTec 1](https://github.com/Axel3246/Actividades_ST1_EQ12)
 
 - 🌱 I’m currently learning **Data Structures on C++**
 
