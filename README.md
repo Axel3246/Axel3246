@@ -24,3 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel3246&show_icons=true&locale=en&layout=compact" alt="axel3246" /></p>
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
